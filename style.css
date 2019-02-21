@@ -1,0 +1,85 @@
+#bbb{
+	background-color: rgba(64,212,126,0.5);
+	font-family: verdana;
+	margin-top: 50px;
+	margin-right: 300px;
+	margin-left: 300px;
+	border-radius:25px;
+	padding-top: 10px;
+}
+h1{
+	color: white;
+	font-family: Britannic Bold;
+	font-style: smaller;
+	font-size: 50px;
+}
+#ma_presentation{
+	background-color: rgba(234,97,83,0.5);
+	margin-top: 10px;
+	margin-right: 300px;
+	margin-left: 300px;
+	border-radius:25px;
+	padding-top: 10px;
+	height: 300px;
+}
+#centres_interets{
+	background-color:rgba(244,202,39,0.5);
+	margin-top: 10px;
+	margin-right: 300px;
+	margin-left: 300px;
+	border-radius:25px;
+	padding-top: 10px;
+	padding-right: 20px;
+
+
+}
+h2{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 40px;
+}
+#retour{
+	color: white;
+	padding-top: 10px;
+}
+ol{
+	color: white;
+}
+img{
+	border-radius: 25px;
+}
+h3{
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+	border:300px;
+}
+.titre_hover_blue:hover{
+color: blue;
+}
+.titre_over_yellow:hover{
+	color: gray;
+}
+p{
+	text-align: center;
+}
+h4{
+	text-align: center;
+	size: 25px;
+}
+#barre_menu{
+	background-color:rgba(149,165,166,0.9);
+	size: 300px;
+	height: 100px;
+	border-radius:25px;
+	padding-top: 10px;
+	padding-right: 20px;
+	font-weight: 50px;
+	font-size: 50px;
+	font-family: Arial Bold;
+}
+li{
+	display:inline-block;
+	size: 40px;
+	height: 40px;
+}
